@@ -1,6 +1,4 @@
-[![Build Status](https://status.continuousphp.com/git-hub/continuousdemo/heroku-demo-zf-apigility-phinx?token=631919f9-9021-406a-9654-fd59cbf86894)](https://continuousphp.com/git-hub/continuousdemo/heroku-demo-zf-apigility-phinx)
-
-#heroku-demo-zf-apigility-phinx
+#heroku-demo-zf-apigility-phinx [![Build Status](https://status.continuousphp.com/git-hub/continuousdemo/heroku-demo-zf-apigility-phinx?token=190b9ca4-c0e4-4cd2-aa6c-94fb020c005c)](https://continuousphp.com/git-hub/continuousdemo/heroku-demo-zf-apigility-phinx)
 
 This demo use ZF Apiligity with Phinx Database migration and deploy it on Heroku.
 
