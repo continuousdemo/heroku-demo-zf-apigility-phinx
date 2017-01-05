@@ -1,2 +1,1 @@
-web: ./vendor/bin/phing setup 
-web: vendor/bin/heroku-php-apache2 public/
+web: cd /app/vendor/bin && ls -l . | awk '{print $9}' | xargs -I X sh -c 'rm X; ln -s `find ../*/*/bin -type f -name X` X' ; cd /app && /app/vendor/bin/phing setup && /app//vendor/bin/heroku-php-apache2 public/ 
